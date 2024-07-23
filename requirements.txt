@@ -253,6 +253,7 @@ pgeocode==0.4.1
 phik==0.12.3
 pickleshare==0.7.5
 pillow==10.2.0
+pip==24.1.2
 platformdirs==3.10.0
 plotly==5.18.0
 plumbum==1.8.3
